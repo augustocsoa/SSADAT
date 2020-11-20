@@ -1,0 +1,5 @@
+this_file: "mark_short_clips.yaml"
+# Directories definitions
+short_clips_dir: "datasets/A3D/short_clips"
+# Parameters definitions
+labels: "annotations/A3D/labels.pkl"

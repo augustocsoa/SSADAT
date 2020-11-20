@@ -1,0 +1,7 @@
+this_file: "short_clips.yaml"
+# Directories definitions
+label_file: "annotations/A3D/labels.pkl"
+video_dir: "datasets/A3D/images"
+clips_dir: "datasets/A3D/short_clips"
+# Parameters definitions
+extension: ".jpg"

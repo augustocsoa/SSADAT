@@ -1,0 +1,15 @@
+this_file: "resnet_train.yaml"
+# Directories definitions
+datasets_root: "datasets"
+dataset_train_dir: "datasets/train"
+dataset_test_dir: "datasets/test"
+dataset_val_dir: "datasets/val"
+
+# Common Parameters
+use_cuda: no
+
+# Alexnet Training Parameters
+batch_size: 32
+epochs: 30
+data_dir: '../../datasets/A3D/images_npy/'
+directory: '../../train_models/'

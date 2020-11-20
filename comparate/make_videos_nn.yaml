@@ -1,0 +1,9 @@
+this_file: "make_videos.yaml"
+# Directories definitions
+short_clips_dir: "comparate/short_clips_nn/"
+rec_videos_dir: "comparate/rec_videos_nn/"
+videos_list: "comparate/video_list.txt"
+# Parameters definitions
+fps: 10
+ext_in: ".jpg"
+ext_out: ".mp4"

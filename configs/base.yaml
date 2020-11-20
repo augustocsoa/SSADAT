@@ -1,0 +1,9 @@
+this_file: "base.yaml"
+# Directories definitions
+datasets_root: "datasets"
+dataset_train_dir: "datasets/train"
+dataset_test_dir: "datasets/test"
+dataset_val_dir: "datasets/val"
+
+# Common Paramters
+use_cuda: no

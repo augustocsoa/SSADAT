@@ -1,0 +1,8 @@
+this_file: "videos2frames.yaml"
+# Directories definitions
+video_dir: "comparate/videos"
+image_dir: "comparate/images"
+videos_list: "comparate/video_list.txt"
+# Parameters definitions
+fps: 10
+extension: "jpg"
