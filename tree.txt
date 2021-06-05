@@ -1,0 +1,83 @@
+.
+├── LICENSE
+├── README.md
+├── STEPS.md
+├── annotations
+│   └── A3D
+│       └── empty
+├── comparate
+│   ├── alexnet_comparate.yaml
+│   ├── alexnet_test.py
+│   ├── comparate_alexnet.py
+│   ├── comparate_resnet.py
+│   ├── download.yaml
+│   ├── make_videos.yaml
+│   ├── make_videos_nn.yaml
+│   ├── make_videos_res.yaml
+│   ├── mark_short_clips.yaml
+│   ├── resnet_comparate.yaml
+│   ├── resnet_test.py
+│   ├── short_clips.yaml
+│   ├── video_list.txt
+│   └── videos2frames.yaml
+├── configs
+│   ├── alexnet_config.yaml
+│   ├── alexnet_config_2.yaml
+│   ├── alexnet_test.yaml
+│   ├── alexnet_train.yaml
+│   ├── base.yaml
+│   ├── config.py
+│   ├── download.yaml
+│   ├── make_videos.yaml
+│   ├── mark_short_clips.yaml
+│   ├── preprocessing.yaml
+│   ├── resnet_config.yaml
+│   ├── resnet_test.yaml
+│   ├── resnet_train.yaml
+│   ├── short_clips.yaml
+│   └── videos2frames.yaml
+├── datasets
+│   └── A3D
+│       ├── video_list.txt
+│       └── youtube_videos_urls.txt
+├── download_videos.py
+├── extract_short_clips.py
+├── lib
+│   ├── article
+│   │   ├── figuras
+│   │   │   └── empty
+│   │   └── tabelas
+│   │       └── empty
+│   └── utils
+│       └── labels
+│           ├── A3D_labels.pkl
+│           ├── generates_comparate_pickle_file.sh
+│           ├── generates_new_pickle_file.sh
+│           ├── labels_comparate.pkl
+│           ├── pack_pickle.py
+│           ├── test_pickle.py
+│           ├── unpack_pickle.py
+│           ├── unpack_pickle_comparate.py
+│           └── unpack_pickle_new.py
+├── make_videos.py
+├── mark_short_clips.py
+├── networks
+│   ├── alexnet
+│   │   ├── alexnet_config.py
+│   │   ├── alexnet_test.py
+│   │   ├── alexnet_train.py
+│   │   └── make_graph.py
+│   └── resnet
+│       ├── make_graph.py
+│       ├── resnet_config.py
+│       ├── resnet_test.py
+│       └── resnet_train.py
+├── preprocessing
+│   ├── preprocessing.py
+│   └── preprocessing2.py
+├── requirements.txt
+├── skel.py
+├── split_videos2frames.py
+└── tree.txt
+
+16 directories, 64 files

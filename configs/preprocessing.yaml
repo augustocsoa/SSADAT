@@ -1,0 +1,10 @@
+this_file: "preprocessing.yaml"
+# Directories definitions
+directory: "../datasets/A3D/short_clips/"
+pickle: "../annotations/A3D/labels.pkl"
+npy_directory: "../datasets/A3D/images_npy/"
+test_percenty: 0.100
+val_percenty: 0.2779
+# preprocessing2
+train_perc: 0.66 # percentage for train data
+val_perc: 0.58 # percentage for val of remaining data

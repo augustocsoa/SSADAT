@@ -1,1 +1,9 @@
 .trash
+__pycache__/
+configs/__pycache__/
+datasets/A3D/videos/
+datasets/A3D/images/
+datasets/A3D/short_clips/
+datasets/A3D/images_npy/
+datasets/A3D/rec_videos/
+train_models/

@@ -1,0 +1,8 @@
+this_file: "videos2frames.yaml"
+# Directories definitions
+video_dir: "datasets/A3D/videos"
+image_dir: "datasets/A3D/images"
+videos_list: "datasets/A3D/video_list.txt"
+# Parameters definitions
+fps: 10
+extension: "jpg"

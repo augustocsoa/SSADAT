@@ -1,0 +1,11 @@
+this_file: "alexnet_comparate.yaml"
+# Directories definitions
+directory_images: "comparate/short_clips/"
+# Common Parameters
+use_cuda: no
+
+# Alexnet TestParameters
+directory_models: 'train_models/'
+data_dir: 'datasets/A3D/images_npy/'
+pickle: "annotations/A3D/labels_comparate.pkl"
+

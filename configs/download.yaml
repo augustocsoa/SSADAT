@@ -1,0 +1,7 @@
+this_file: "download.yaml"
+# Directories definitions
+download_root: "datasets/A3D/videos"
+videos_urls: "datasets/A3D/youtube_videos_urls.txt"
+videos_list: "datasets/A3D/video_list.txt"
+# Common Paramters
+use_cuda: no

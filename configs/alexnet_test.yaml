@@ -1,0 +1,15 @@
+this_file: "alexnet_test.yaml"
+# Directories definitions
+datasets_root: "datasets"
+dataset_train_dir: "datasets/train"
+dataset_test_dir: "datasets/test"
+dataset_val_dir: "datasets/val"
+
+# Common Parameters
+use_cuda: no
+
+# Alexnet TestParameters
+directory: '../../train_models/'
+data_dir: '../../datasets/A3D/images_npy/'
+classes: 2
+class_names: "acident,normal"

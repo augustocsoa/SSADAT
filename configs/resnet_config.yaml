@@ -1,0 +1,14 @@
+this_file: "resnet_config.yaml"
+# Directories definitions
+datasets_root: "datasets"
+dataset_train_dir: "datasets/train"
+dataset_test_dir: "datasets/test"
+dataset_val_dir: "datasets/val"
+
+# Common Parameters
+use_cuda: no
+
+# Alexnet Parameters
+input_shape: (227,227,3)
+classes: 2
+directory: "../../train_models/"
