@@ -46,20 +46,24 @@ Para Executar os programas será necessário ter instalado:
 Pela natureza do dataset (vídeos) e pela complexidade dos algoritmos de redes neurais, recomenda-se fortemente a execução em hardware minimamente compatível, alguns recursos são desejados como: processador multicore multithread, memória primária de 16GB, memória secundária SSD, GPU com suporte a núcleos CUDA.
 
 ## Execução veja arquivo [STEPS.md](STEPS.md)
-<!--
+
+## Visualização gráfica desde repositório
+![Visualization of the codebase](./diagram.svg)
+
 ## Citações
 Caso algo neste repositório lhe seja útil, esteja à vontade para nos citar:
-
-	@article{augusto2020ssadat,
-		title = {{SSADAT} --- {Subsistema} {Autônomo} {de} {Detecção} {de} {Acidentes} {de} {Trânsito}},
-		shorttitle = {{SSADAT}},
-		author = {Soares, Augusto Carvalho and Pereira, Danilo César},
-		abstract = {},
-		keywords = {},
-		language = {pt-BR},
-		journal={},
-		month = {Nov},
-		year = {2020}
+	@article{Soares_Pereira_2021,
+	  author={Soares, Augusto and Pereira, Danilo},
+	  title={Aplicação de classiﬁcador binário por RNC na detecção de acidentes de trânsito},
+	  journal={Revista Brasileira de Computação Aplicada},
+	  volume={13},
+	  number={2},
+	  pages={28-37},
+	  year={2021},
+	  month={jun},
+	  DOI={10.5335/rbca.v13i2.12466},
+	  url={http://seer.upf.br/index.php/rbca/article/view/12466},
+	  keywords={Acidente; AlexNet; Detecção; Rede Neural; ResNet-50}
 	}
--->
+
 #### Nossos sinceros agradecimentos a Yao et al. pelo belo trabalho feito! Por ele tivemos inspiração para a nossa própria implementação.
