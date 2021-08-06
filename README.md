@@ -52,6 +52,7 @@ Pela natureza do dataset (vídeos) e pela complexidade dos algoritmos de redes n
 
 ## Citações
 Caso algo neste repositório lhe seja útil, esteja à vontade para nos citar:
+
 	@article{Soares_Pereira_2021,
 	  author={Soares, Augusto and Pereira, Danilo},
 	  title={Aplicação de classiﬁcador binário por RNC na detecção de acidentes de trânsito},
