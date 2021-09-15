@@ -53,18 +53,19 @@ Pela natureza do dataset (vídeos) e pela complexidade dos algoritmos de redes n
 ## Citações
 Caso algo neste repositório lhe seja útil, esteja à vontade para nos citar:
 
-	@article{Soares_Pereira_2021,
-	  author={Soares, Augusto and Pereira, Danilo},
-	  title={Aplicação de classiﬁcador binário por RNC na detecção de acidentes de trânsito},
-	  journal={Revista Brasileira de Computação Aplicada},
-	  volume={13},
-	  number={2},
-	  pages={28-37},
-	  year={2021},
-	  month={jun},
-	  DOI={10.5335/rbca.v13i2.12466},
-	  url={http://seer.upf.br/index.php/rbca/article/view/12466},
-	  keywords={Acidente; AlexNet; Detecção; Rede Neural; ResNet-50}
+	@article{soares_aplicacao_2021,
+	  author       = {Soares, Augusto Carvalho and Pereira, Danilo César},
+	  title        = {Aplicação de classiﬁcador binário por {RNC} na detecção de acidentes de trânsito},
+	  journal      = {Revista Brasileira de Computação Aplicada},
+	  volume       = {13},
+	  number       = {2},
+	  pages        = {28--37},
+	  year         = {2021},
+	  month        = {jun},
+	  issn         = {2176-6649},
+	  doi          = {10.5335/rbca.v13i2.12466},
+	  keywords     = {Acidente; AlexNet; Detecção; Rede Neural; ResNet-50},
+	  url          = {http://seer.upf.br/index.php/rbca/article/view/12466},
 	}
 
 #### Nossos sinceros agradecimentos a Yao et al. pelo belo trabalho feito! Por ele tivemos inspiração para a nossa própria implementação.
